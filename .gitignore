@@ -1,0 +1,7 @@
+old/
+vendor/
+test/cells/
+.DS_Store/
+.idea/
+
+src/Rbit/Moxaick/Config.php

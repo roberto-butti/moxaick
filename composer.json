@@ -1,0 +1,17 @@
+{
+  "name": "rbit/moxaick",
+  "description": "Moxaick",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roberto Butti",
+      "email": "rbutti@h-art.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Rbit": "src/"
+    }
+  }
+}
